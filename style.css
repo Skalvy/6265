@@ -1,0 +1,62 @@
+p.bbb {
+	color: red;
+}
+
+p .bbb {
+	color: red;
+}
+
+.eee p.bbb {
+	color: red;
+}
+
+.eee p .bbb {
+	color: red;
+}
+
+.success {
+    color: green;
+    font-size: large;
+}
+
+.error {
+    color: red;
+    font-size: small;
+}
+
+.large {
+    color: red;
+    font-size: large;
+}
+
+.small {
+    color: green;
+    font-size: small;
+}
+
+.lamp, .ice, .Xiaomi {
+    color: blue;
+}
+
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: skyblue
+    ;
+}
+
+#block {
+    color: blue;
+    font-style: inherit;
+}
+
+.text {
+    font-style: oblique;
+}
+
